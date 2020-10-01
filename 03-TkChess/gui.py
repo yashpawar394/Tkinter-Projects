@@ -1,7 +1,7 @@
 #coding:utf8
 import chessboard
 import pieces
-from Tkinter import *
+from tkinter import *
 from PIL import ImageTk
 
 class GUI():
